@@ -77,28 +77,33 @@ margin-right: 5rem;
     justify-content: center;
     align-items: center;
 }
+
 .header{
-    margin-left: 40px;
+   display: flex;
+   justify-content: center;
+   align-self: center;
 }
 br{
     display: none;
     }
 .paragraph{
-    margin-left: 40px;
+    margin-left: 50px;
+   width: 300px;
+
 }
 .btn-two{
     margin-left: 150px;
     min-width: max-content;
 }
 .icons{
-    margin-left: 40px;
+    margin-left: 15px;
 }
 .colapse{
     position: absolute;
     left: 50%;
     top: 0%;
     width:100vw;
-    height: 110vh;
+    height:110vh;
     background: rgb(255, 255, 255);
     box-shadow: 1px 1px 1px 5px 1px;
     display: flex;
