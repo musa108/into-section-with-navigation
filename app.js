@@ -20,7 +20,7 @@ menu.addEventListener('click', () =>{
     if (menu.style.display = "block") {
         menu.style.display = "none"; 
         colapse.style.display= "block";
-        colapse.style.width = "50%"
+        colapse.style.width = "200vw"
     }
 });
 cancel.addEventListener('click', () =>{
