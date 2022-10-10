@@ -125,7 +125,7 @@ br{
     top: 1rem;
     left: 1rem;
     display: flex;
-    gap: 17rem;
+    gap: 18rem;
 }
 .dropdown-three,.dropdown-four{
     display: none;
