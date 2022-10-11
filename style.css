@@ -135,7 +135,6 @@ br{
     left: 1%;
     right: 1%;
     min-width: 150px;
-    box-shadow: none;
 }
 .btn-one{
     width: 170px;
@@ -144,6 +143,9 @@ br{
     margin-left: 8rem;
     font-weight: bold;
 
+}
+.hero{
+    margin-right: 2rem;
 }
 }
 @media (max-width:1224px) {
